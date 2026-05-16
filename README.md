@@ -28,7 +28,7 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1qsUY1RwiggAfVACHdyroPRLgWZF82JlG
 
-## Run Locally
+# Run Locally
 
 **Prerequisites:**  Node.js
 
@@ -38,6 +38,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1qsUY1RwiggAfVACHdyroPR
 3. Run the app:
    `npm run dev`
 
-   ## 📄 Disclaimer
+## 📄 Disclaimer
 
 This project is a Proof of Concept (PoC) for academic purposes. The trust product architectures, legal terms, and AI-generated financial advice within the App are simulated and hold no real-world legal validity. They are intended solely to demonstrate the commercial and technical feasibility of an "inclusive online trust."
