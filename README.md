@@ -20,9 +20,7 @@ This project aims to break down the barriers of traditional trusts by deeply int
 * **🤖 AI-Empowered Cost Reduction:** Integrating **Google AI Studio** to provide underlying LLM capabilities. The AI assistant conducts preliminary needs assessments and automatically generates basic trust frameworks, drastically reducing human advisory costs.
 * **👵 Silver-Friendly Design:** Designed not only for the children of the middle class but also tailored for the elderly themselves, featuring a minimalist UI, accessible interactions, and clear, visual asset dashboards.
 
-## 🛠️ Tech Stack
-
-# Run and deploy this AI Studio app
+## 🛠️ Tech Stack: Run and deploy this AI Studio app
 
 This contains everything you need to run your app locally.
 
