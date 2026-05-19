@@ -1,6 +1,6 @@
 # 🏦 Haven-Micro-Trust — An Inclusive Online Trust Platform for the Silver Economy
 
-> 🚀 *Introduction to FinTech* Course Project | An intelligent trust management app powered by Google AI Studio
+> 🚀 ECON1501-*Introduction to FinTech* Course Project | An intelligent trust management app powered by Google AI Studio
 
 ## 📖 Background
 
